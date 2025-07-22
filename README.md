@@ -6,3 +6,7 @@ I enjoy exploring modern tools and UI frameworks to build practical and meaningf
 This space is where I share my code, experiments, and ongoing learning.
 
 Thanks for visiting.
+
+---
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/cod-e-codes) or visit my [portfolio](https://www.cod-e-codes.com).
