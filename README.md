@@ -1,12 +1,12 @@
 # Hi, I’m Cody
 
-I work with a variety of languages and frameworks, including C++, Go, Python, JavaScript, Rust, and Dart/Flutter.  
-I enjoy exploring modern tools and UI frameworks to build practical and meaningful projects.
+I work with C++, Go, Python, JavaScript, Rust, Dart/Flutter, and whatever else fits the job.    
+I like building useful tools, experimenting with new ideas, and occasionally making games or interfaces just because it’s fun.
 
-This space is where I share my code, experiments, and ongoing learning.
+This profile is mostly a mix of side projects, experiments, and utilities—some polished, some still in progress.    
+Check out the [repos](https://github.com/Cod-e-Codes?tab=repositories) if you're curious.  
 
-Thanks for visiting.
+## More
 
----
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/cod-e-codes) or visit my [portfolio](https://www.cod-e-codes.com).
+- [Portfolio](https://www.cod-e-codes.com)
+- [LinkedIn](https://www.linkedin.com/in/cod-e-codes)
