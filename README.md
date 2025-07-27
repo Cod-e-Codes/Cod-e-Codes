@@ -13,10 +13,10 @@ Check out the [repos](https://github.com/Cod-e-Codes?tab=repositories) if you're
 - [`marchat`](https://github.com/Cod-e-Codes/marchat): Terminal-based group chat with file sharing and admin tools (Go, Bubble Tea)
 - [`ignoregrets`](https://github.com/Cod-e-Codes/ignoregrets): Git-ignored file snapshots tied to commits (Go)
 - [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth): Fast COBOL code analysis and reporting (Rust + Go)
-
-### Experiments & Interfaces
-- [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer): Render images/videos as full-color ASCII art in your terminal (Python)
 - [`parsec`](https://github.com/Cod-e-Codes/parsec): Terminal-native file inspector with live preview and fuzzy search (Go)
+- [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer): Render images and videos as full-color ASCII in your terminal (Python)
+
+### Other Projects
 - [`virtual-room-builder`](https://github.com/Cod-e-Codes/virtual-room-builder): Build and explore 3D room layouts (Python)
 
 ## More
