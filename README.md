@@ -23,7 +23,8 @@ Currently focused on building high-performance CLI tools in Go.
 
 ## Stats
 
-![Cod-e-Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cod-e-Codes&show_icons=true&theme=vue-dark&hide_border=true)  
+![Cod-e-Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cod-e-Codes&show_icons=true&theme=vue-dark&hide_border=true)
+![Cod-e-Codes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cod-e-Codes&theme=vue-dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cod-e-Codes&layout=compact&theme=vue-dark&hide_border=true)
 
 ## More
