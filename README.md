@@ -9,6 +9,8 @@ Check out the [repos](https://github.com/Cod-e-Codes?tab=repositories) if you're
 
 ## Highlights
 
+Currently focused on building high-performance CLI tools in Go.
+
 ### Tools & CLI Projects
 - [`marchat`](https://github.com/Cod-e-Codes/marchat): Terminal-based group chat with file sharing and admin tools (Go, Bubble Tea)
 - [`ignoregrets`](https://github.com/Cod-e-Codes/ignoregrets): Git-ignored file snapshots tied to commits (Go)
@@ -18,6 +20,11 @@ Check out the [repos](https://github.com/Cod-e-Codes?tab=repositories) if you're
 
 ### Other Projects
 - [`virtual-room-builder`](https://github.com/Cod-e-Codes/virtual-room-builder): Build and explore 3D room layouts (Python)
+
+## Stats
+
+![Cod-e-Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cod-e-Codes&show_icons=true&theme=vue-dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cod-e-Codes&layout=compact&theme=vue-dark&hide_border=true)
 
 ## More
 
