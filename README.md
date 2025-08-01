@@ -14,7 +14,7 @@ Check out my repos below to see what I’m working on — some polished, some st
 - [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth): Fast COBOL code analysis and reporting (Rust + Go)
 - [`parsec`](https://github.com/Cod-e-Codes/parsec): Terminal file inspector with live preview and fuzzy search (Go)
 - [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer): Render images and videos as full-color ASCII art (Python)
-- [`virtual-room-builder`](https://github.com/Cod-e-Codes/virtual-room-builder): CLI tool for building and visualizing room layouts (Python + Matplotlib)
+- [`.gothub`](https://github.com/Cod-e-Codes/.gothub): Fragile infrastructure for emotionally unstable repos (Makefile, hooks, CI)
 
 ## More About Me
 
