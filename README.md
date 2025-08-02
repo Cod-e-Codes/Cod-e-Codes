@@ -9,7 +9,8 @@ Check out my repos below to see what I’m working on — some polished, some st
 ## Featured Projects
 
 ### Tools & CLI Apps
-- [`marchat`](https://github.com/Cod-e-Codes/marchat): Terminal-native group chat with file sharing and admin tools (Go, Bubble Tea)
+- [`marchat`](https://github.com/Cod-e-Codes/marchat): Minimalist terminal-native group chat app with end-to-end encryption, plugin support, file sharing, and admin tools — built for speed, privacy, and extensibility (Go, Bubble Tea)
+- [`marchat-plugins`](https://github.com/Cod-e-Codes/marchat-plugins): Early-stage repo for marchat plugins, currently with a test echo plugin but planned to host official and community extensions for marchat’s growing plugin ecosystem
 - [`ignoregrets`](https://github.com/Cod-e-Codes/ignoregrets): Snapshots of your Git-ignored files tied to commits (Go)
 - [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth): Fast COBOL code analysis and reporting (Rust + Go)
 - [`parsec`](https://github.com/Cod-e-Codes/parsec): Terminal file inspector with live preview and fuzzy search (Go)
