@@ -9,9 +9,9 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 ## Featured Projects    
 
 - [`marchat`](https://github.com/Cod-e-Codes/marchat) — Terminal-native group chat app with end-to-end encryption, plugin support, file sharing, and admin tools (Go, Bubble Tea)    
-- [`marchat-plugins`](https://github.com/Cod-e-Codes/marchat-plugins) — Official and community plugins for `marchat`    
 - [`parsec`](https://github.com/Cod-e-Codes/parsec) — Terminal file inspector with live preview and fuzzy search (Go)    
-- [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth) — Fast COBOL code analysis and reporting (Rust + Go)    
+- [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth) — Fast COBOL code analysis and reporting (Rust + Go)
+- [`marchat-plugins`](https://github.com/Cod-e-Codes/marchat-plugins) — Official and community plugins for `marchat`
 - [`ignoregrets`](https://github.com/Cod-e-Codes/ignoregrets) — Snapshots of Git-ignored files tied to commits (Go)    
 - [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer) — Full-color ASCII art from images & video (Python)    
 
