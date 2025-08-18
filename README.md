@@ -1,6 +1,6 @@
 # Hi, I’m Cody    
 
-I build high-performance CLI tools and terminal-native utilities in Go, Rust, and Python — designed to help developers work faster, with tools that respect the user's machine, time, and trust.    
+I build high-performance CLI and terminal-native utilities in Go, Rust, and Python. My tools respect your machine, time, and trust—fast, offline-first, and built to last.
 
 I prefer software that works offline, fits in memory, and runs on five-year-old laptops. No frameworks for frameworks. No unnecessary cloud dependencies. Just clear, durable code that does the job.    
 
