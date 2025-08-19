@@ -18,10 +18,10 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 <details>    
 <summary>Other projects</summary>    
 
-- [`terminal-link`](https://github.com/Cod-e-Codes/terminal-link) — Minimal tool for turning URLs into clickable terminal links    
-- [`.gothub`](https://github.com/Cod-e-Codes/.gothub) — Satirical infrastructure for emotionally unstable repos    
+- [`terminal-link`](https://github.com/Cod-e-Codes/terminal-link) — Minimal tool for turning URLs into clickable terminal links (Go)
 - [`tuitar`](https://github.com/Cod-e-Codes/tuitar) — Terminal-based guitar tablature editor with modal Vim-style editing, real-time visual feedback, and MIDI playback (Go + Bubble Tea)    
-- [`lilweb-template`](https://github.com/Cod-e-Codes/lilweb-template) — 13 KB starter for ultra-minimal personal websites    
+- [`lilweb-template`](https://github.com/Cod-e-Codes/lilweb-template) — 13 KB starter for ultra-minimal personal websites (HTML)
+- [`.gothub`](https://github.com/Cod-e-Codes/.gothub) — Satirical infrastructure for emotionally unstable repos 
 - …and [more on GitHub »](https://github.com/Cod-e-Codes?tab=repositories)    
 
 </details>    
