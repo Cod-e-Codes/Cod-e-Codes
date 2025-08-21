@@ -13,7 +13,7 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 - [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth) — Fast COBOL code analysis and reporting (Rust + Go)
 - [`marchat-plugins`](https://github.com/Cod-e-Codes/marchat-plugins) — Official and community plugins for `marchat`
 - [`ignoregrets`](https://github.com/Cod-e-Codes/ignoregrets) — Snapshots of Git-ignored files tied to commits (Go)    
-- [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer) — Full-color ASCII art from images & video (Python)    
+- [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer) — Full-color ASCII art from images & video + optional GPU support (Python)    
 
 <details>    
 <summary>Other projects</summary>    
