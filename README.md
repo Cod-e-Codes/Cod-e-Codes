@@ -26,7 +26,7 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 
 </details>    
 
-## 💖 First Sponsor
+## First Sponsor
 
 A very special thanks to my **Aunt Fredda**, my first sponsor.  
 *"With love from all my loved ones who have gone before me. Done with so much love and pride, in memory of all of us who have ever loved you and believed in you."*
