@@ -8,7 +8,7 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 
 ## Featured Projects    
 
-- [`marchat`](https://github.com/Cod-e-Codes/marchat) — Terminal-native group chat app with end-to-end encryption, plugin support, file sharing, and admin tools (Go, Bubble Tea)    
+- [`marchat`](https://github.com/Cod-e-Codes/marchat) — Lightweight terminal-native group chat with real-time WebSocket messaging, optional end-to-end encryption, file sharing, code snippets, plugins, and a TUI admin panel (Go, Bubble Tea)
 - [`parsec`](https://github.com/Cod-e-Codes/parsec) — Terminal file inspector with live preview and fuzzy search (Go)    
 - [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth) — Fast COBOL code analysis and reporting (Rust + Go)
 - [`marchat-plugins`](https://github.com/Cod-e-Codes/marchat-plugins) — Official and community plugins for `marchat`
