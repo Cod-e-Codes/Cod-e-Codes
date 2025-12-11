@@ -17,7 +17,7 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 <details>
 <summary>Other projects</summary>
 
-- [`gribble`](https://github.com/Cod-e-Codes/gribble): Real-time terminal system monitor with interactive process management, file browsing, and network traffic visualization (Rust, async, TUI) **[Moved from Featured]**
+- [`gribble`](https://github.com/Cod-e-Codes/gribble): Real-time terminal system monitor with interactive process management, file browsing, and network traffic visualization (Rust, async, TUI)
 - [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth): Fast COBOL code analysis and reporting (Rust + Go)
 - [`launchr`](https://github.com/Cod-e-Codes/launchr): Terminal mission control TUI for launching apps, managing processes, bookmarks, SSH, scripts, notifications, and shell history (Rust)
 - [`parsec`](https://github.com/Cod-e-Codes/parsec): Fast terminal-based file inspector with live preview, fuzzy search, and multi-language support (Go)
