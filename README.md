@@ -21,7 +21,7 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 - [`launchr`](https://github.com/Cod-e-Codes/launchr): Terminal mission control TUI for launching apps, managing processes, bookmarks, SSH, scripts, notifications, and shell history (Rust)
 - [`parsec`](https://github.com/Cod-e-Codes/parsec): Fast terminal-based file inspector with live preview, fuzzy search, and multi-language support (Go)
 - [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer): Render any image or video as full-color ASCII art in your terminal (Python)
-- [`qb2c`](https://github.com/Cod-e-Codes/qb2c): A single-file C transpiler that converts a subset of QBasic programs into C code using the Ncurses library (QuickBASIC, C) **[Moved here]**
+- [`qb2c`](https://github.com/Cod-e-Codes/qb2c): A single-file C transpiler that converts a subset of QBasic programs into C code using the Ncurses library (QuickBASIC, C)
 - [`tuitar`](https://github.com/Cod-e-Codes/tuitar): Terminal-based guitar tablature editor with modal Vim-style editing, real-time visual feedback, and MIDI playback (Go + Bubble Tea)
 - [`ratsnest`](https://github.com/Cod-e-Codes/ratsnest): Fast terminal-based file search and content explorer with async fuzzy matching and git integration (Rust)
 - [`rmrf-progress`](https://github.com/Cod-e-Codes/rmrf-progress): Go utility for recursive file deletion with progress tracking and safety features (Go)
