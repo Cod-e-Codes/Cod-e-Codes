@@ -7,11 +7,11 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 
 ## Featured Projects
 
-- [`ion-lang`](https://github.com/Cod-e-Codes/ion-lang): **Systems Programming Language** transpiled to C. It enforces memory safety with move-only ownership, stack-local references (no GC), and robust channels-only concurrency (Rust)
 - [`marchat`](https://github.com/Cod-e-Codes/marchat): Lightweight terminal-native group chat with server/client binaries, real-time WebSocket messaging, optional end-to-end encryption, plugins, file sharing, admin panel, and code snippets (Go, Bubble Tea)
+- [`ion-lang`](https://github.com/Cod-e-Codes/ion-lang): **Systems Programming Language** transpiled to C. It enforces memory safety with move-only ownership, stack-local references (no GC), and robust channels-only concurrency (Rust)
 - [`voicemcu`](https://github.com/Cod-e-Codes/voicemcu): **Self-hosted group voice chat** with MCU server mixing, QUIC transport, jitter buffering, Opus PLC, TUI client with host moderation, and certificate pinning. O(1) client bandwidth regardless of room size (Rust)
 - [`soundlooper`](https://github.com/Cod-e-Codes/soundlooper): **Terminal-based audio workstation** for live looping and music creation. Built with Rust for high-performance **real-time audio processing** (Rust, Audio)
-- [`pxrs`](https://github.com/Cod-e-Codes/pxrs): **Pixel Art Editor** built with Rust and the Iced GUI library, demonstrating complex TUI/GUI application development (Rust, Iced)
+- [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer): Render any image or video as full-color ASCII art in your terminal (Rust)
 - [`devdash`](https://github.com/Cod-e-Codes/devdash): **Terminal-based developer dashboard** built with Rust and Ratatui, featuring customizable widgets for monitoring logs, performance, and external services (Rust, TUI)
 
 <details>
@@ -21,7 +21,6 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 - [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth): Fast COBOL code analysis and reporting (Rust + Go)
 - [`launchr`](https://github.com/Cod-e-Codes/launchr): Terminal mission control TUI for launching apps, managing processes, bookmarks, SSH, scripts, notifications, and shell history (Rust)
 - [`parsec`](https://github.com/Cod-e-Codes/parsec): Fast terminal-based file inspector with live preview, fuzzy search, and multi-language support (Go)
-- [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer): Render any image or video as full-color ASCII art in your terminal (Python)
 - [`qb2c`](https://github.com/Cod-e-Codes/qb2c): A single-file C transpiler that converts a subset of QBasic programs into C code using the Ncurses library (QuickBASIC, C)
 - [`tuitar`](https://github.com/Cod-e-Codes/tuitar): Terminal-based guitar tablature editor with modal Vim-style editing, real-time visual feedback, and MIDI playback (Go + Bubble Tea)
 - [`ratsnest`](https://github.com/Cod-e-Codes/ratsnest): Fast terminal-based file search and content explorer with async fuzzy matching and git integration (Rust)
