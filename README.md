@@ -1,4 +1,4 @@
-# Hi, I’m Cody
+# Hi, I'm Cody
 
 I build high-performance CLI and terminal-native utilities in Go, Rust, and C. My tools respect your machine, time, and trust: fast, offline-first, and built to last.
 I prefer software that works offline, fits in memory, and runs on five-year-old laptops. No frameworks for frameworks. No unnecessary cloud dependencies. Just clear, durable code that gets the job done.
@@ -8,15 +8,16 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 ## Featured Projects
 
 - [`marchat`](https://github.com/Cod-e-Codes/marchat): Lightweight terminal-native group chat with server/client binaries, real-time WebSocket messaging, optional end-to-end encryption, plugins, file sharing, admin panel, and code snippets (Go, Bubble Tea)
+- [`astvcs`](https://github.com/Cod-e-Codes/astvcs): **Structural version control** for source trees. AST diff and three-way merge via tree-sitter, branches, remotes, offline `serve`. Not Git-compatible (Rust)
 - [`ion-lang`](https://github.com/Cod-e-Codes/ion-lang): **Systems Programming Language** transpiled to C. It enforces memory safety with move-only ownership, stack-local references (no GC), and robust channels-only concurrency (Rust)
 - [`voicemcu`](https://github.com/Cod-e-Codes/voicemcu): **Self-hosted group voice chat** with MCU server mixing, QUIC transport, jitter buffering, Opus PLC, TUI client with host moderation, and certificate pinning. O(1) client bandwidth regardless of room size (Rust)
 - [`soundlooper`](https://github.com/Cod-e-Codes/soundlooper): **Terminal-based audio workstation** for live looping and music creation. Built with Rust for high-performance **real-time audio processing** (Rust, Audio)
 - [`ascii-colorizer`](https://github.com/Cod-e-Codes/ascii-colorizer): Render any image or video as full-color ASCII art in your terminal (Rust)
-- [`devdash`](https://github.com/Cod-e-Codes/devdash): **Terminal-based developer dashboard** built with Rust and Ratatui, featuring customizable widgets for monitoring logs, performance, and external services (Rust, TUI)
 
 <details>
 <summary>Other projects</summary>
 
+- [`devdash`](https://github.com/Cod-e-Codes/devdash): Terminal-based developer dashboard built with Rust and Ratatui, featuring customizable widgets for monitoring logs, performance, and external services (Rust, TUI)
 - [`gribble`](https://github.com/Cod-e-Codes/gribble): Real-time terminal system monitor with interactive process management, file browsing, and network traffic visualization (Rust, async, TUI)
 - [`codesleuth`](https://github.com/Cod-e-Codes/codesleuth): Fast COBOL code analysis and reporting (Rust + Go)
 - [`launchr`](https://github.com/Cod-e-Codes/launchr): Terminal mission control TUI for launching apps, managing processes, bookmarks, SSH, scripts, notifications, and shell history (Rust)
@@ -40,10 +41,10 @@ I prefer software that works offline, fits in memory, and runs on five-year-old 
 Huge thanks to my sponsors:
 
 - **Aunt Fredda** ([Fredda1974](https://github.com/Fredda1974)):
-  "With love from all my loved ones who have gone before me. Done with so much love and pride, in memory of all of us who have ever loved you and believed in you."
+  "With love from all my loved ones who have gone before me. Done with so much love and pride, in memory of all of us who have ever loved you and believed in you."
 
 - **Crystal** ([Goinwrong](https://github.com/Goinwrong)):
-  For your endless encouragement, inspiration, and support in both code and life.
+  For your endless encouragement, inspiration, and support in both code and life.
 
 Your support means the world.
 
